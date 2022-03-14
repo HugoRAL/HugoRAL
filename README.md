@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/58562761/158018570-c3b4ba04-4a44-441e-be9a-f8c84651c034.png"/>
 </div>
 <div align="center" style="display: inline_block">
-  <h2> My Name is Hugo </h2>
+  <h2> Hello my Name is Hugo </h2>
 </div>
 <p>👨‍🎓 At the moment I am studying Computer Engineering at ISTEC</p>
 <p>👨‍💻 My favorite Programing Languages:</p>
